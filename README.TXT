@@ -20,7 +20,7 @@ bring it up on just about any platform.
 
 I wrote this code a long, long time ago, and there are plenty of things
 that seem downright silly in retrospect (using polar coordinates for
-clipping comes to mind), but overall it should still be a usefull base
+clipping comes to mind), but overall it should still be a useful base
 to experiment and build on.
 
 The basic rendering concept -- horizontal and vertical lines of constant
